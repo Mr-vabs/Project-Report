@@ -1,12 +1,12 @@
 # Project Report Instructions For Major Project
 
 <hr>
-<br><br><br>
+
 
 ## Please follow these instructions
 
 <hr>
-<br><br><br>
+<br><br>
 
 ## Sections
 
